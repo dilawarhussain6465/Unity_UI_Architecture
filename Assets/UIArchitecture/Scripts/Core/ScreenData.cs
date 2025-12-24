@@ -1,12 +1,14 @@
 using System;
 using UnityEngine;
-
-[Serializable]
-public class ScreenData
+namespace com.DilawarHussain.UIArchitecture.Core
 {
-    public UIScreenTypes screenType;
-    public GameObject screenPrefab;
-    public bool isPopup;
-    public UIScreenTypes parentScreen;
-    public bool showByDefault;
+    [Serializable]
+    public class ScreenData
+    {
+        public UIScreenTypes screenType;
+        public GameObject screenPrefab;
+        public bool isPopup;
+        public UIScreenTypes parentScreen;
+        public bool showByDefault;
+    }
 }

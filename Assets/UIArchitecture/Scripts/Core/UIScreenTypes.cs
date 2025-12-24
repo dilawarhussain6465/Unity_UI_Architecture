@@ -1,12 +1,15 @@
-// UIScreenTypes.cs
-public enum UIScreenTypes
+namespace com.DilawarHussain.UIArchitecture.Core
 {
-    None,
-    // Full screens
-    Splash,
-    Home,
-    Profile,
+    // UIScreenTypes.cs
+    public enum UIScreenTypes
+    {
+        None,
+        // Full screens
+        Splash,
+        Home,
+        Profile,
 
-    // Popups
-    RewardPopup
+        // Popups
+        RewardPopup
+    }
 }
