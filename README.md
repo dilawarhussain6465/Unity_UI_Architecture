@@ -1,7 +1,2 @@
-# Unity_UI_Architecture
-Scene Setup:
-Create a Canvas set resolution according to your requirements.
-1.1 Create a empty full screen panel as Parent for all the screens
-1.2 Design your required screens ( Splash, Home etc)
-1.3 Create Class views for each screen and popup, attach to the screen and assign required fields Use UI scene Splash, Home, Reward Popup and Profile screens as example.
-1.4 Save your created full screens and popups as prefabs
+# Unity UI Architecture – Dynamic & Scalable UI System
+A robust, modular, and scalable UI framework for Unity, designed to manage full-screen views, popups, and navigation efficiently. Perfect for building any type of Unity game UI (2D, 3D, mobile, desktop) with a clean and maintainable architecture.

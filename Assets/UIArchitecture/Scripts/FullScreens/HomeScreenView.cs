@@ -1,6 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
-
+using com.DilawarHussain.UIArchitecture.Core;
 public class HomeScreenView : FullScreenView
 {
     [Header("Home Screen Components")]

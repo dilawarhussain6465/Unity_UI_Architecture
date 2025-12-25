@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
 using TMPro;
-
+using com.DilawarHussain.UIArchitecture.Core;
 public class SplashScreenView : FullScreenView
 {
     [Header("Splash Screen Components")]

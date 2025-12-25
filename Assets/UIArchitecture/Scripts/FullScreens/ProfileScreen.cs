@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
-
+using com.DilawarHussain.UIArchitecture.Core;
 public class ProfileScreenView : FullScreenView
 {
     [Header("Profile Screen Components")]

@@ -4,12 +4,9 @@ namespace com.DilawarHussain.UIArchitecture.Core
     public enum UIScreenTypes
     {
         None,
-        // Full screens
         Splash,
         Home,
         Profile,
-
-        // Popups
         RewardPopup
     }
 }
