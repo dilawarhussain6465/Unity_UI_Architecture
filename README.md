@@ -12,3 +12,5 @@ Prefab-Based: Create and reuse screens and popups as prefabs.
 Type-Safe Access: Access screens and popups via generics for clean code.
 
 These can help  way more content
+CORE CLASSES TO USE:
+SCENE SETUP
