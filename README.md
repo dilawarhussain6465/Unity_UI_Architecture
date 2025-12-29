@@ -11,5 +11,21 @@ Event System: UnityEvents to hook custom logic on screen show/hide.
 Prefab-Based: Create and reuse screens and popups as prefabs.
 Type-Safe Access: Access screens and popups via generics for clean code.
 
-Demo / Screenshots
+# Scene Setup
+
+Canvas & Panel Setup
+Create a Canvas and set your desired resolution
+Add a full-screen empty Panel as parent for all screens
+Design Screens
+Create required screens (Splash, Home, Profile, etc.)
+Save each screen and popup as prefabs
+Attach Classes
+Add UIView, FullScreenView, or PopupView script to each prefab
+Assign required fields and hook buttons to the UIManager
+Example Screens Included
+
+Splash Screen:
 <img width="756" height="339" alt="Screenshot 2025-12-29 164451" src="https://github.com/user-attachments/assets/1864a329-6cb8-4148-ad58-7a872b564a5b" />
+Home Screen:
+<img width="757" height="350" alt="Screenshot 2025-12-29 165139" src="https://github.com/user-attachments/assets/c7666fc2-bd8c-44e6-b4d8-b168b973356d" />
+
