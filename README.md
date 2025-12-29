@@ -26,6 +26,7 @@ Example Screens Included
 
 Splash Screen:
 <img width="756" height="339" alt="Screenshot 2025-12-29 164451" src="https://github.com/user-attachments/assets/1864a329-6cb8-4148-ad58-7a872b564a5b" />
+
 Home Screen:
 <img width="757" height="350" alt="Screenshot 2025-12-29 165139" src="https://github.com/user-attachments/assets/c7666fc2-bd8c-44e6-b4d8-b168b973356d" />
 
