@@ -12,3 +12,4 @@ Prefab-Based: Create and reuse screens and popups as prefabs.
 Type-Safe Access: Access screens and popups via generics for clean code.
 
 Demo / Screenshots
+<img width="756" height="339" alt="Screenshot 2025-12-29 164451" src="https://github.com/user-attachments/assets/1864a329-6cb8-4148-ad58-7a872b564a5b" />
