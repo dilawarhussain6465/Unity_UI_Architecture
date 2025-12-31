@@ -26,7 +26,13 @@ Example Screens Included
 
 Splash Screen:
 <img width="756" height="339" alt="Screenshot 2025-12-29 164451" src="https://github.com/user-attachments/assets/1864a329-6cb8-4148-ad58-7a872b564a5b" />
+Create a Canvas set resolution according to your requirements.
+1.1 Create a empty full screen panel as Parent for all the screens
+1.2 Design your required screens ( Splash, Home etc)
+1.3 Create Class views for each screen and popup, attach to the screen and assign required fields Use UI scene Splash, Home, Reward Popup and Profile screens as example.
+1.4 Save your created full screens and popups as prefabs
 
 Home Screen:
 <img width="757" height="350" alt="Screenshot 2025-12-29 165139" src="https://github.com/user-attachments/assets/c7666fc2-bd8c-44e6-b4d8-b168b973356d" />
+
 
