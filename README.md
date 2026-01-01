@@ -36,5 +36,6 @@ Home Screen:
 <img width="757" height="350" alt="Screenshot 2025-12-29 165139" src="https://github.com/user-attachments/assets/c7666fc2-bd8c-44e6-b4d8-b168b973356d" />
 
 Add empty GameObject attach UIManager class 
+2.1 Assign all the data in the Screen Data make sure to use proper Screen Type screen prefab and rest of the values.
 
 
