@@ -40,3 +40,4 @@ Add empty GameObject attach UIManager class
 2.2 For popup you need to select parent screen type as well if you need to show popup under parent screen.
 2.3
 2.4
+2.5
