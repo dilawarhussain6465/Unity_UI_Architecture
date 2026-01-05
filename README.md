@@ -38,3 +38,4 @@ Home Screen:
 Add empty GameObject attach UIManager class 
 2.1 Assign all the data in the Screen Data make sure to use proper Screen Type screen prefab and rest of the values.
 2.2 For popup you need to select parent screen type as well if you need to show popup under parent screen.
+How to Add Popup screen
