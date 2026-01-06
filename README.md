@@ -40,3 +40,4 @@ Add empty GameObject attach UIManager class
 2.2 For popup you need to select parent screen type as well if you need to show popup under parent screen.
 How to Add Popup screen
 show up the way to add popups under the parent screen
+default splash or set default screen 
