@@ -45,3 +45,4 @@ default splash or set default screen
 
 # Why use this Architecture:
 1. A clean and scalable UI architecture for Unity projects
+2. Built for real-world production-ready Unity games.
