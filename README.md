@@ -56,3 +56,4 @@ default splash or set default screen
 10. Type-safe access to screens for cleaner code.
 11. Event-driven UI lifecycle using UnityEvents.
 12. Add new screens without modifying core logic.
+13. Optimized for mobile, desktop, and cross-platform games.
