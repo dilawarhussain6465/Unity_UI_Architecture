@@ -60,3 +60,4 @@ default splash or set default screen
 14. Ideal for indie, hyper-casual, and AAA prototypes.
 15. Clear separation between UI logic and visuals.
 16. Beginner-friendly but powerful enough for advanced use.
+17. Designed to scale as your project grows.
