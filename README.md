@@ -55,3 +55,4 @@ default splash or set default screen
 9. Flexible popup system with dim background support.
 10. Type-safe access to screens for cleaner code.
 11. Event-driven UI lifecycle using UnityEvents.
+12. Add new screens without modifying core logic.
