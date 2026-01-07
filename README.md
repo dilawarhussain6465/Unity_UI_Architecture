@@ -52,3 +52,4 @@ default splash or set default screen
 6. Fully prefab-driven UI workflow.
 7. Easy to plug into existing Unity projects.
 8. Supports smooth UI transitions and popup animations.
+9. Flexible popup system with dim background support.
