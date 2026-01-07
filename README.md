@@ -50,3 +50,4 @@ default splash or set default screen
 4. Simple navigation system with back and history support.
 5. Designed to keep UI code organized and maintainable.
 6. Fully prefab-driven UI workflow.
+7. Easy to plug into existing Unity projects.
