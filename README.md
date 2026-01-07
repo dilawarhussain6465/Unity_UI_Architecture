@@ -54,3 +54,4 @@ default splash or set default screen
 8. Supports smooth UI transitions and popup animations.
 9. Flexible popup system with dim background support.
 10. Type-safe access to screens for cleaner code.
+11. Event-driven UI lifecycle using UnityEvents.
