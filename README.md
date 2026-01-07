@@ -58,3 +58,4 @@ default splash or set default screen
 12. Add new screens without modifying core logic.
 13. Optimized for mobile, desktop, and cross-platform games.
 14. Ideal for indie, hyper-casual, and AAA prototypes.
+15. Clear separation between UI logic and visuals.
