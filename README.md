@@ -62,3 +62,5 @@ default splash or set default screen
 16. Beginner-friendly but powerful enough for advanced use.
 17. Designed to scale as your project grows.
 18. Minimal setup with maximum flexibility.
+19. Clean architecture inspired by professional UI systems.
+20. A solid foundation for any Unity UI project.
