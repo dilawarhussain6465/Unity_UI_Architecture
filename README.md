@@ -59,3 +59,4 @@ default splash or set default screen
 13. Optimized for mobile, desktop, and cross-platform games.
 14. Ideal for indie, hyper-casual, and AAA prototypes.
 15. Clear separation between UI logic and visuals.
+16. Beginner-friendly but powerful enough for advanced use.
