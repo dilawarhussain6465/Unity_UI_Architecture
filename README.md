@@ -53,3 +53,4 @@ default splash or set default screen
 7. Easy to plug into existing Unity projects.
 8. Supports smooth UI transitions and popup animations.
 9. Flexible popup system with dim background support.
+10. Type-safe access to screens for cleaner code.
