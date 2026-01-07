@@ -61,3 +61,4 @@ default splash or set default screen
 15. Clear separation between UI logic and visuals.
 16. Beginner-friendly but powerful enough for advanced use.
 17. Designed to scale as your project grows.
+18. Minimal setup with maximum flexibility.
