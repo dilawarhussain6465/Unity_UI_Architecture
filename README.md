@@ -49,3 +49,4 @@ default splash or set default screen
 3. Handles screens and popups with a single UI manager.
 4. Simple navigation system with back and history support.
 5. Designed to keep UI code organized and maintainable.
+6. Fully prefab-driven UI workflow.
