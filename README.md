@@ -41,3 +41,7 @@ Add empty GameObject attach UIManager class
 How to Add Popup screen
 show up the way to add popups under the parent screen
 default splash or set default screen 
+
+
+# Why use this Architecture:
+1. A clean and scalable UI architecture for Unity projects
