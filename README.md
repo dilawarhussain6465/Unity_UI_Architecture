@@ -10,9 +10,7 @@ Animation Support: Smooth fade-in/out animations for popups.
 Event System: UnityEvents to hook custom logic on screen show/hide.
 Prefab-Based: Create and reuse screens and popups as prefabs.
 Type-Safe Access: Access screens and popups via generics for clean code.
-
 # Scene Setup
-
 Canvas & Panel Setup
 Create a Canvas and set your desired resolution
 Add a full-screen empty Panel as parent for all screens
@@ -41,7 +39,6 @@ Add empty GameObject attach UIManager class
 How to Add Popup screen
 show up the way to add popups under the parent screen
 default splash or set default screen 
-
 
 # Why use this Architecture:
 1. A clean and scalable UI architecture for Unity projects
