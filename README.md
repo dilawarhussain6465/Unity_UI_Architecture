@@ -68,6 +68,3 @@ IF YOU FACE ANY ISSUE'S OR PROBLEM YOU CAN ASK FOR HELP
 1. Email: dilawarhussain6465@gmail.com
 2. GitHub: dilawarhussain6465
 
-THANK YOU SO MUCH
-Regards
-Dilawar Hussain
