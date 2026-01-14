@@ -65,9 +65,9 @@ default splash or set default screen
 
 IF YOU FACE ANY ISSUE'S OR PROBLEM YOU CAN ASK FOR HELP
 # Contact Me
-Email: dilawarhussain6465@gmail.com
-GitHub: dilawarhussain6465
+1. Email: dilawarhussain6465@gmail.com
+2. GitHub: dilawarhussain6465
 
-THANK YOU so much
+THANK YOU SO MUCH
 Regards
 Dilawar Hussain
