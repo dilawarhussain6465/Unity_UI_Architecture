@@ -1,6 +1,6 @@
 # Unity UI Architecture – Dynamic & Scalable UI System
 A robust, modular, and scalable UI framework for Unity, designed to manage full-screen views, popups, and navigation efficiently. Perfect for building any type of Unity game UI (2D, 3D, mobile, desktop) with a clean and maintainable architecture.
-This architecture system have following features:
+This architecture system have following features are:
 # Features
 Dynamic Screen Management: Easily show/hide full-screen views and popups.
 Popup Handling: Automatic handling of popups with optional dim background and outside click to close.
