@@ -67,3 +67,5 @@ default splash or set default screen
 1. Email: dilawarhussain6465@gmail.com
 2. GitHub: dilawarhussain6465
 
+Thank you
+
