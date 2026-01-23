@@ -42,6 +42,8 @@ default splash or set default screen
 
 UI Manager:
 
+Adding More Screen and Popup types:
+
 
 # Why use this Architecture:
 1. A clean and scalable UI architecture for Unity projects
