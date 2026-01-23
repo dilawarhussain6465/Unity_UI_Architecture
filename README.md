@@ -44,6 +44,7 @@ UI Manager:
 
 Adding More Screen and Popup types:
 
+Calling the screen that you want to open:
 
 # Why use this Architecture:
 1. A clean and scalable UI architecture for Unity projects
