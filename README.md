@@ -43,11 +43,9 @@ default splash or set default screen
 UI Manager:
 
 Adding More Screen and Popup types:
-
 Calling the screen that you want to open:
-
 How to get reference of any Screen:
-
+How to add Enums
 # Why use this Architecture:
 1. A clean and scalable UI architecture for Unity projects
 2. Built for real-world production-ready Unity games.
